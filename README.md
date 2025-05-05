@@ -26,4 +26,4 @@ This project aims to enhance Vietnam Airlines’ mobile website to improve passe
 The **Information Systems Analysis and Design** document serves as a formal agreement aligning system functionalities with Vietnam Airlines’ operational and business goals.
 
 ## 📽️ Demo
-Check out the demo here: 
+Check out the demo here: https://drive.google.com/drive/folders/1iOWCl_k1ikR8fMPR43LMG2YNTJcoB921?usp=sharing 
