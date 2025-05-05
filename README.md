@@ -20,7 +20,6 @@ This project aims to enhance Vietnam Airlines’ mobile website to improve passe
 ## 🗓️ Project Timeline
 - **System Design Finalized:** October 20, 2024  
 - **Development Completed:** November 5, 2024  
-- **App Launch:** November 10, 2024
 
 ## 📑 Documentation
 The **Information Systems Analysis and Design** document serves as a formal agreement aligning system functionalities with Vietnam Airlines’ operational and business goals.
